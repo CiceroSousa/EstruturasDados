@@ -1,10 +1,10 @@
 /*
-Criar um TAD que armazena nome e nota de um aluno e as operações:
-criar novo aluno, acessar dados do aluno, liberar memória.
-Criar uma aplicação que usa o TAD criado para ler a
-média e a idade de 10 alunos. Guardar estes aluno em um vetor.
+Criar um TAD que armazena nome do livro, ano de edição, total de paginas e preço do livro e as operações:
+criar novo livro, acessar dados do livro, liberar memória.
+Criar uma aplicação que usa o TAD criado para ler os dados
+de 10 livros. Guardar estes dados em um vetor.
 Depois, estes dados devem ser exibidos.
-Depois imprimir a média da turma
+Depois imprimir a média de paginas dos livros do arquivo.
 */
 
 #include <stdio.h>
